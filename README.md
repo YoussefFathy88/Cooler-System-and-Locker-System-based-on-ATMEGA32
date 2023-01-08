@@ -15,8 +15,7 @@ Details
 2. First time password saved is 0000.
 3. User should enter 0000 to open locker at first time.
 4. To change password user should press on ‘/’  buzzer will be on for 3 second
-then off  user should enter 4 digit password then  press on ‘/’ again to save
-password
+then off  user should enter 4 digit password
 
 5. To close the locker, you should press only on ‘*’
 
