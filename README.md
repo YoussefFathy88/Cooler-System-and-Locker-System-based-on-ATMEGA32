@@ -25,10 +25,10 @@ digit for password, then display locker opened if right password and Try again i
 wrong password and a buzzer will be on for 3 second then off  re-enter
 password again.
 
-  7.To open the locker, enter 4 digit password (lcd display * each time you enter a
-  digit for password, then display locker opened if right password and Try again if
-  wrong password and a buzzer will be on for 3 second then off  re-enter
-  password again.
+7. To open the locker, enter 4 digit password (lcd display * each time you enter a
+digit for password, then display locker opened if right password and Try again if
+wrong password and a buzzer will be on for 3 second then off  re-enter
+password again.
 
 Locker System Demo 
 Link to drive with the video
