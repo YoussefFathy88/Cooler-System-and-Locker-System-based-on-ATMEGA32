@@ -3,13 +3,17 @@ In this project includes all the drivers from scratch.
 
 Locker System description:
 
-System consists of 
+## Locker System Demo 
+<p align="center"><img src="Simulation/Proteus_Simulation.png"\></p>
+
+## System Componenets
 
 1. Keypad
 2. LCD 
 3. LED
--------------------
-Details
+4. EEPROM
+
+## ProjectDetails
 
 1. Pressing on any button will make LED on for 100msec.
 2. First time password saved is 0000.
@@ -29,8 +33,5 @@ digit for password, then display locker opened if right password and Try again i
 wrong password and a buzzer will be on for 3 second then off  re-enter
 password again.
 
-Locker System Demo 
-Link to drive with the video
-
-Locker System Demo 
-Link to drive with the video
+##Simulation
+https://drive.google.com/drive/folders/1L3JVhJxyFXEfJbJFN1wX6mdpCvRvKkJg?fbclid=IwAR32Zlghqeuyf8ksncDxB5KRXSZ3Gb3tMAuHc8w8DzcmAEM_L9NN0EMmA0A
